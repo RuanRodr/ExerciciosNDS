@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fFFE1ZEU3+nTwLenEyiAUfTXZo9bIH2RzpI3dlNqvzNhD0GKRo1FE+pZRpV7K/a7Hxc0TYzvTTdQQeU3qFiVEQ==",
+  "success": true,
+  "projectFilePath": "/home/jose-ruan/RiderProjects/Exercicios/Exercicio03/Exercicio03.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /home/jose-ruan/RiderProjects/Exercicios/Exercicio03/obj/project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}

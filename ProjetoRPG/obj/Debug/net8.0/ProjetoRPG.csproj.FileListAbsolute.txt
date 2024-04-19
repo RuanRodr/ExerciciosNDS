@@ -1,0 +1,14 @@
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/ProjetoRPG.AssemblyInfoInputs.cache
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/ProjetoRPG.AssemblyInfo.cs
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/ProjetoRPG.csproj.CoreCompileInputs.cache
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/bin/Debug/net8.0/ProjetoRPG
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/bin/Debug/net8.0/ProjetoRPG.deps.json
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/bin/Debug/net8.0/ProjetoRPG.runtimeconfig.json
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/bin/Debug/net8.0/ProjetoRPG.dll
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/bin/Debug/net8.0/ProjetoRPG.pdb
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/ProjetoRPG.dll
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/refint/ProjetoRPG.dll
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/ProjetoRPG.pdb
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/ProjetoRPG.genruntimeconfig.cache
+/home/jose-ruan/RiderProjects/Exercicios/ProjetoRPG/obj/Debug/net8.0/ref/ProjetoRPG.dll

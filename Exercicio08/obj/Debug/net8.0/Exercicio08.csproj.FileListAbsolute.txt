@@ -1,0 +1,14 @@
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/bin/Debug/net8.0/Exercicio08
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/bin/Debug/net8.0/Exercicio08.deps.json
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/bin/Debug/net8.0/Exercicio08.runtimeconfig.json
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/bin/Debug/net8.0/Exercicio08.dll
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/bin/Debug/net8.0/Exercicio08.pdb
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/Exercicio08.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/Exercicio08.AssemblyInfoInputs.cache
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/Exercicio08.AssemblyInfo.cs
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/Exercicio08.csproj.CoreCompileInputs.cache
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/Exercicio08.dll
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/refint/Exercicio08.dll
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/Exercicio08.pdb
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/Exercicio08.genruntimeconfig.cache
+/home/jose-ruan/RiderProjects/Exercicios/Exercicio08/obj/Debug/net8.0/ref/Exercicio08.dll
